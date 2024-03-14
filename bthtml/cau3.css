@@ -1,0 +1,30 @@
+header{
+    text-align: center;
+    color: blue;
+}
+table{
+    text-align: center;
+}
+.ngay{
+    background-color: yellow;
+}
+.tuan{
+    background-color: orange;
+}
+.tuan3{
+    text-align: center;
+}
+table{
+    
+    width: 800px;
+    margin: 0 auto;
+}
+ul{
+    list-style: none;
+}
+.tkb{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    color: rgb(55, 0, 255);   
+}

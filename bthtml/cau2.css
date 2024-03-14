@@ -1,0 +1,13 @@
+header{
+    text-align: center;
+}
+table {
+    width: 300px;
+    height: 100px;
+    margin-left: 230px;
+    text-align: center;
+    
+}
+th {
+    background: yellow;
+}
